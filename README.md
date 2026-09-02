@@ -134,15 +134,19 @@ Interação: Alterar preferências via chat ou formulário simplificado.
 
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial. Usar tom educativo e linguagem acessível, em português.
 
-Interações com Deepseek:
+---
+---
+---
+
+### Interações com Deepseek:
 1- "Olá, gostaria que me ajudasse a revisar meu Product Required Document para utilizá-lo no lovable para exercitar minhas habilidades de vibecoding. Ficarei feliz se como resposta você me enviasse a revisão de forma sintetizada e didatica trazendo os conceitos de vibe coding e PRD para enriquecer meus estudos: ..."
 2- "Gostaria que adicionasse ao PRD a necessidade de um desing universal e salientasse a sua importância, dando visibilidade e acesso para grupos que possuem debilidades."
 3- "Poderia me enviar uma versão final do prd revisada como snippet txt e sem emojis, apenas markdown."
 
-Interação lovable:
+### Interação lovable:
 1- "Crie um app de finanças pessoais considerando o PRD:..."
-
-Prints:
+---
+### Prints:
 <img width="1880" height="941" alt="Deepseek print 1" src="https://github.com/user-attachments/assets/1cdfa847-b887-450b-9eb9-90f2f8b1a9cb" />
 <img width="1846" height="909" alt="Deepseek print 2" src="https://github.com/user-attachments/assets/9474b2cc-a1bf-4701-8911-eb1b3b2058ec" />
 <img width="1884" height="936" alt="Lovable print 1" src="https://github.com/user-attachments/assets/28d68d98-3677-42bb-910f-7135e9172e73" />
